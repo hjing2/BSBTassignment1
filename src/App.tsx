@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Coding 1
+          Haodan Coding 1
         </p>
       </header>
     </div>
